@@ -9,10 +9,10 @@
 
 ### 🛠️ Skills
 
-- 🔐 **Cybersecurity** | CTFs | Pentesting  
-- 💻 **Languages:** Python, Bash, HTML/CSS, JavaScript  
-- 🧰 **Tools:** Burp Suite, Wireshark, Nmap, Metasploit  
-- 🌱 **Currently Learning:** Web Exploitation, Privilege Escalation, Malware Analysis
+- 🔐 **Cybersecurity** | **CTFs** | **Pentesting**  
+- 💻 **Languages:** **Python** | **Bash** | **HTML/CSS** | **JavaScript**  
+- 🧰 **Tools:** Burp Suite | Wireshark | Nmap | Metasploit | Gobuster | Bettercap
+- 🌱 **Currently Learning:** Web Exploitation | Cryptography | Malware Analysis
 
 ---
 
