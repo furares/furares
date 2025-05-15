@@ -28,6 +28,8 @@ Check out my profile and progress here:
 
 - ✅ **Google Cybersecurity Certificate** – Issued by Google via Coursera  
   *Topics covered: Networking, Linux CLI, Security Foundations, SOC tools, Threat Detection*
+- ✅ **Python for Cybersecurity Certification**
+- *Obtained from **BTK Academy**, this certification demonstrates my knowledge and expertise in Python programming for cybersecurity applications*
 
 ---
 
