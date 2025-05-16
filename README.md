@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm FurAres</h1>
+<h1 align="center"> Hi, I'm FurAres</h1>
 
 <p align="center">
     A curious mind exploring the world of <strong>Cybersecurity</strong> and <strong>Software Development</strong>.<br>
@@ -7,16 +7,16 @@
 
 ---
 
-### 🛠️ Skills
+### Skills
 
-- 🔐 **Cybersecurity** | **CTFs** | **Pentesting**  
-- 💻 **Languages:** **Python** | **Bash** | **HTML/CSS** | **JavaScript**  
-- 🧰 **Tools:** Burp Suite | Wireshark | Nmap | Metasploit | Gobuster | Bettercap
-- 🌱 **Currently Learning:** Web Exploitation | Cryptography | Malware Analysis
+- **Cybersecurity** | **CTFs** | **Pentesting**  
+- **Languages:** **Python** | **Bash** | **HTML/CSS** | **JavaScript**  
+- **Tools:** Burp Suite | Wireshark | Nmap | Metasploit | Gobuster | Bettercap
+- **Currently Learning:** Web Exploitation | Cryptography | Malware Analysis
 
 ---
 
-### 🧠 TryHackMe
+### TryHackMe
 
 I'm actively solving cybersecurity challenges on TryHackMe.  
 Check out my profile and progress here:  
