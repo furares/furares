@@ -24,7 +24,7 @@ Check out my profile and progress here:
 
 ### YouTube
 
-🔗 [My YouTube Chanel](https://www.youtube.com/@Furares)
+🔗 [My YouTube Channel](https://www.youtube.com/@Furares)
 
 ---
 
