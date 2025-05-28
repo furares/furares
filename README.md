@@ -22,6 +22,10 @@ I'm actively solving cybersecurity challenges on TryHackMe.
 Check out my profile and progress here:  
 🔗 [My TryHackMe Profile](https://tryhackme.com/p/furares)
 
+### YouTube
+
+🔗 [My YouTube Chanel](https://www.youtube.com/@Furares)
+
 ---
 
 ### 📜 Certifications
